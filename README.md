@@ -1,9 +1,9 @@
 # ConfettiView
 
-[![CI Status](http://img.shields.io/travis/lo-fo/ConfettiView.svg?style=flat)](https://travis-ci.org/lo-fo/ConfettiView)
-[![Version](https://img.shields.io/cocoapods/v/ConfettiView.svg?style=flat)](http://cocoapods.org/pods/ConfettiView)
-[![License](https://img.shields.io/cocoapods/l/ConfettiView.svg?style=flat)](http://cocoapods.org/pods/ConfettiView)
-[![Platform](https://img.shields.io/cocoapods/p/ConfettiView.svg?style=flat)](http://cocoapods.org/pods/ConfettiView)
+[![CI Status](http://img.shields.io/travis/lo-fo/ConfettiView.svg?style=flat)](https://travis-ci.org/lo-fo/LFConfettiView)
+[![Version](https://img.shields.io/cocoapods/v/ConfettiView.svg?style=flat)](http://cocoapods.org/pods/LFConfettiView)
+[![License](https://img.shields.io/cocoapods/l/ConfettiView.svg?style=flat)](http://cocoapods.org/pods/LFConfettiView)
+[![Platform](https://img.shields.io/cocoapods/p/ConfettiView.svg?style=flat)](http://cocoapods.org/pods/LFConfettiView)
 
 ## Example
 
@@ -17,7 +17,7 @@ ConfettiView is available through [CocoaPods](http://cocoapods.org). To install
 it, simply add the following line to your Podfile:
 
 ```ruby
-pod "ConfettiView"
+pod "LFConfettiView"
 ```
 
 ## Author
