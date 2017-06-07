@@ -7,6 +7,7 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
+		15B1D19A1EE8047E00FC195A /* Default-568h@2x.png in Resources */ = {isa = PBXBuildFile; fileRef = 15B1D1991EE8047E00FC195A /* Default-568h@2x.png */; };
 		607FACD61AFB9204008FA782 /* AppDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = 607FACD51AFB9204008FA782 /* AppDelegate.swift */; };
 		607FACD81AFB9204008FA782 /* ViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 607FACD71AFB9204008FA782 /* ViewController.swift */; };
 		607FACDB1AFB9204008FA782 /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 607FACD91AFB9204008FA782 /* Main.storyboard */; };
@@ -29,10 +30,11 @@
 
 /* Begin PBXFileReference section */
 		04D1D23050C2DB1878398B74 /* Pods-ConfettiView_Tests.release.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "Pods-ConfettiView_Tests.release.xcconfig"; path = "Pods/Target Support Files/Pods-ConfettiView_Tests/Pods-ConfettiView_Tests.release.xcconfig"; sourceTree = "<group>"; };
+		15B1D1991EE8047E00FC195A /* Default-568h@2x.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "Default-568h@2x.png"; sourceTree = "<group>"; };
 		2C8D2812CAF41557CA2387F7 /* Pods-ConfettiView_Tests.debug.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "Pods-ConfettiView_Tests.debug.xcconfig"; path = "Pods/Target Support Files/Pods-ConfettiView_Tests/Pods-ConfettiView_Tests.debug.xcconfig"; sourceTree = "<group>"; };
 		2DADAB4B01B0A794C9FE4550 /* Pods-ConfettiView_Example.debug.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "Pods-ConfettiView_Example.debug.xcconfig"; path = "Pods/Target Support Files/Pods-ConfettiView_Example/Pods-ConfettiView_Example.debug.xcconfig"; sourceTree = "<group>"; };
 		45FDAC033F2344D7F018A178 /* Pods_ConfettiView_Example.framework */ = {isa = PBXFileReference; explicitFileType = wrapper.framework; includeInIndex = 0; path = Pods_ConfettiView_Example.framework; sourceTree = BUILT_PRODUCTS_DIR; };
-		47DD9A23764B53C3BB4C5E02 /* ConfettiView.podspec */ = {isa = PBXFileReference; includeInIndex = 1; name = ConfettiView.podspec; path = ../ConfettiView.podspec; sourceTree = "<group>"; };
+		47DD9A23764B53C3BB4C5E02 /* ConfettiView.podspec */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text; name = ConfettiView.podspec; path = ../ConfettiView.podspec; sourceTree = "<group>"; };
 		607FACD01AFB9204008FA782 /* ConfettiView_Example.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = ConfettiView_Example.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		607FACD41AFB9204008FA782 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
 		607FACD51AFB9204008FA782 /* AppDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AppDelegate.swift; sourceTree = "<group>"; };
@@ -44,9 +46,9 @@
 		607FACEA1AFB9204008FA782 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
 		607FACEB1AFB9204008FA782 /* Tests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Tests.swift; sourceTree = "<group>"; };
 		6DA0FF9F48CFC574610F7DB4 /* Pods_ConfettiView_Tests.framework */ = {isa = PBXFileReference; explicitFileType = wrapper.framework; includeInIndex = 0; path = Pods_ConfettiView_Tests.framework; sourceTree = BUILT_PRODUCTS_DIR; };
-		772E19720411924673B8FD97 /* LICENSE */ = {isa = PBXFileReference; includeInIndex = 1; name = LICENSE; path = ../LICENSE; sourceTree = "<group>"; };
+		772E19720411924673B8FD97 /* LICENSE */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text; name = LICENSE; path = ../LICENSE; sourceTree = "<group>"; };
 		A55AB3F8656C349BBA4E351B /* Pods-ConfettiView_Example.release.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "Pods-ConfettiView_Example.release.xcconfig"; path = "Pods/Target Support Files/Pods-ConfettiView_Example/Pods-ConfettiView_Example.release.xcconfig"; sourceTree = "<group>"; };
-		F800C73BF11B24E3EB60E453 /* README.md */ = {isa = PBXFileReference; includeInIndex = 1; name = README.md; path = ../README.md; sourceTree = "<group>"; };
+		F800C73BF11B24E3EB60E453 /* README.md */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = net.daringfireball.markdown; name = README.md; path = ../README.md; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -104,6 +106,7 @@
 		607FACD21AFB9204008FA782 /* Example for ConfettiView */ = {
 			isa = PBXGroup;
 			children = (
+				15B1D1991EE8047E00FC195A /* Default-568h@2x.png */,
 				607FACD51AFB9204008FA782 /* AppDelegate.swift */,
 				607FACD71AFB9204008FA782 /* ViewController.swift */,
 				607FACD91AFB9204008FA782 /* Main.storyboard */,
@@ -249,6 +252,7 @@
 			buildActionMask = 2147483647;
 			files = (
 				607FACDB1AFB9204008FA782 /* Main.storyboard in Resources */,
+				15B1D19A1EE8047E00FC195A /* Default-568h@2x.png in Resources */,
 				607FACE01AFB9204008FA782 /* LaunchScreen.xib in Resources */,
 				607FACDD1AFB9204008FA782 /* Images.xcassets in Resources */,
 			);
